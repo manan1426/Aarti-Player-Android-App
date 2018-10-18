@@ -5,5 +5,5 @@ public class playCon {
     public playCon(){
 
     }
-    public static final String API_KEY="AIzaSyC6ASzDVm6bgUSMSaiDncx91-__EF-4soc";
+    public static final String API_KEY="(your API key)";
 }
