@@ -1,0 +1,36 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.hp.jai_jai_shree_radhee.MainActivity">
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/Hanuman_Chalisa"
+            android:title="Hanuman Chalisa"
+            app:showAsAction="never"
+            android:orderInCategory="1"/>
+
+        <item
+            android:id="@+id/ganesha"
+            android:title="Ganesha Aarti"
+            app:showAsAction="never"
+            android:orderInCategory="2"/>
+
+        <item
+            android:id="@+id/krishna"
+            android:title="krishana Aarti"
+            app:showAsAction="never"
+            android:orderInCategory="3"/>
+        <item
+            android:id="@+id/sherawalimata"
+            android:title="Mata Rani Aarti"
+            app:showAsAction="never"
+            android:orderInCategory="4"/>
+        <item
+            android:id="@+id/shivji"
+            android:title="Shiv Aarti"
+            app:showAsAction="never"
+            android:orderInCategory="5"/>
+
+    </group>
+</menu>
